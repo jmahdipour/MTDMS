@@ -1,2 +1,5 @@
 # MTDMS
-Mechanical Testing Data Management System for Excel 2019
+
+Excel 2019 + VBA + Ribbon
+
+TXT-only import.
