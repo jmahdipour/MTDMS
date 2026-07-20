@@ -1,3 +1,0 @@
-# 08_Standards
-
-Placeholder.
