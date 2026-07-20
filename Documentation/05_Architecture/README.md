@@ -1,3 +1,0 @@
-# 05_Architecture
-
-Placeholder.
