@@ -1,3 +1,0 @@
-# 04_Database
-
-Placeholder.
